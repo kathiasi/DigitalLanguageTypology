@@ -1,2 +1,2 @@
-# DigitalLanguageTypology
-Data processing tools for language data
+# Speech_data_tools_by_Katri
+Speech data processing tools for language data
